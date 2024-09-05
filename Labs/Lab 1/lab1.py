@@ -34,6 +34,7 @@ print(y)
 x[0:3]
 
 # 3
+# practice printing a string and vector
 print('the first three entries of x are', x[0:3])
 
 # 4
