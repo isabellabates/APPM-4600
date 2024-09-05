@@ -2,22 +2,24 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # some basics
+# create a vector
 x=[1,2,3]
 x*3
 
 y=np.array([1,2,3])
 3*y
 
-# print('this is 3y', 3*y)
 
-#X = np.linspace(0, 2 * np.pi, 100)
-#Ya = np.sin(X)
-#Yb = np.cos(X)
-#plt.plot(X, Ya)
-#plt.plot(X, Yb)
-#plt.xlabel('x')
-#plt.ylabel('y')
-# plt.show()
+print('this is 3y', 3*y)
+
+X = np.linspace(0, 2 * np.pi, 100)
+Ya = np.sin(X)
+Yb = np.cos(X)
+plt.plot(X, Ya)
+plt.plot(X, Yb)
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
 
 # exercises: the basics
 # 1
@@ -56,9 +58,6 @@ plt.show()
 
 # 6 
 # I saved them as pngs.
-
-
-
 
 
 
