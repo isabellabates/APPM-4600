@@ -1,8 +1,8 @@
 ## APPM 4600
 ### About
-Bates
+Isabella Bates
 
-Hi, my name is Isabella Bates. This repo contains all the homeworks and labs I did for APPM 4600.
+This repo contains all the homeworks and labs I did for APPM 4600.
 
 ### Subdirectory structure
     .
