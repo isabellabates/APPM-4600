@@ -24,6 +24,7 @@ plt.show()
 
 # exercises: the basics
 # 1
+# create vectors using linspace and arange
 x=np.linspace(0,20,21)
 y=np.arange(0,21,1)
 print(x)
