@@ -1,8 +1,8 @@
 # Consider the polynomial 
 # p(x) = (x-2)^9 = x^9 - 18x^8 + 144x^7 - 672x^6 + 2016x^5 - 4032x^4 + 5376x^3 - 4608x^2 + 2304x - 512
 
-import matplotlib.pyplot as plt
 import math
+import matplotlib.pyplot as plt
 import numpy as np
 
 def driver():
